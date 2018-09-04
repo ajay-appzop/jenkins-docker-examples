@@ -1,5 +1,5 @@
 ext {
-    dockerImageName = "ticketfly/$name"
+    dockerImageName = "ajayappzop/$name"
     dockerTag = version
     jenkinsPort = 8080
     jenkinsHost = 'localhost'
